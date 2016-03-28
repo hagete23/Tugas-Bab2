@@ -5,8 +5,8 @@ pastikan ketika upload tugas dilakukan secara bertahap.karna mempengaruhi nilai
 
 baca ketentuan umum pengumpulan tugas [disini](https://www.github.com/PrakPL-SI-H/KetentuanUmum.git);
 
-Nama	: <<isi disini>>
+Nama	: <<Haidar Giri Tidar>>
 
-NIM 	: <<isi disini>>
+NIM 	: <<155150401111137>>
 
-KELAS   : <<isi disini>>
+KELAS   : <<SI-H>>
